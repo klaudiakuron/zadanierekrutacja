@@ -1,0 +1,28 @@
+.text_input__container {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  background-color: white;
+  border-radius: 12px;
+  filter: drop-shadow(-2px 4px 2px #f7f7f7);
+}
+.text_input__field {
+  display: flex;
+  width: 345px;
+  height: 55px;
+  border: 1px solid rgba(134, 145, 156, 1);
+  border-radius: 12px;
+}
+.text_input__icon {
+  width: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text_input__input {
+  border: none;
+  outline: none;
+  width: 240px;
+  padding-right: 10px;
+  font-size: 14px;
+  color: #6d6d78;
+}
